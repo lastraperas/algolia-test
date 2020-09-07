@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{Wdxh:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),s=t.n(a),c=t("yVfp"),i={name:"ItemsOnlineInfante",title:"_PagesInfantes"};e.default=function(){return s.a.createElement(c.a,{searchIndices:i})}}}]);
+//# sourceMappingURL=component---src-pages-ninxs-js-28e7be67171457436200.js.map
